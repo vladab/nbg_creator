@@ -1,0 +1,13 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+.delete {
+    color: red;
+}
+.edit {
+    color: #e0e000;
+}
